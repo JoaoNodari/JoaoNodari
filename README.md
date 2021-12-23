@@ -56,9 +56,3 @@ My name is **João Paulo da Silva Nodari**, I'm from Ribeirão Preto - SP, Brazi
 ---
 
 ### Thank you for visiting my profile. 👋
-
-<br>
-
-<center>
-  <img alt="GIF" src="https://media.giphy.com/media/10h1BGkwYiIydi/giphy.gif" height="250" width="400"/>
-</center>
